@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5021
+
+Currently works for lambdas in Python, JavaScript and Scheme
+
+Source and details are at:
+https://github.com/calebsmith/vim-lambdify
